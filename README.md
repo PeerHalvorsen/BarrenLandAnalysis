@@ -15,7 +15,7 @@ are caught and handled here.
 
 #### LandGrid Class
 The LandGrid class is where all the major work is performed searching the grid.
-There are two constructors one which simply takes the rectangle coordinates and another which
+There are two constructors, one which simply takes the rectangle coordinates and another which
 allows for a custom sized grid.  This class also has four public methods.
 
 ##### getFertileAreas
